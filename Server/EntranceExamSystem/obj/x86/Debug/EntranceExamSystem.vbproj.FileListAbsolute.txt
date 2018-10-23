@@ -1,0 +1,559 @@
+c:\users\103\documents\visual studio 2010\Projects\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe
+c:\users\103\documents\visual studio 2010\Projects\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.pdb
+c:\users\103\documents\visual studio 2010\Projects\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.xml
+c:\users\103\documents\visual studio 2010\Projects\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\103\documents\visual studio 2010\Projects\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.Resources.resources
+c:\users\103\documents\visual studio 2010\Projects\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\103\documents\visual studio 2010\Projects\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\103\documents\visual studio 2010\Projects\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.exe
+c:\users\103\documents\visual studio 2010\Projects\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.xml
+c:\users\103\documents\visual studio 2010\Projects\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.pdb
+c:\users\103\documents\visual studio 2010\Projects\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmMain.resources
+c:\users\103\documents\visual studio 2010\Projects\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAccount.resources
+c:\users\103\documents\visual studio 2010\Projects\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmDirection.resources
+c:\users\103\documents\visual studio 2010\Projects\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExam.resources
+c:\users\103\documents\visual studio 2010\Projects\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExaminee.resources
+c:\users\103\documents\visual studio 2010\Projects\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmLogin.resources
+c:\users\103\documents\visual studio 2010\Projects\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmQuestionaire.resources
+c:\users\103\documents\visual studio 2010\Projects\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmResults.resources
+c:\users\103\documents\visual studio 2010\Projects\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmUser.resources
+c:\users\103\documents\visual studio 2010\Projects\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmValiditation.resources
+C:\Users\103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.exe
+C:\Users\103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.xml
+C:\Users\103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.pdb
+C:\Users\103\Desktop\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe
+C:\Users\103\Desktop\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.pdb
+C:\Users\103\Desktop\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.xml
+C:\Users\103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmMain.resources
+C:\Users\103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAccount.resources
+C:\Users\103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmDirection.resources
+C:\Users\103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExam.resources
+C:\Users\103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExaminee.resources
+C:\Users\103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmQuestionaire.resources
+C:\Users\103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmResults.resources
+C:\Users\103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.Resources.resources
+H:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.exe
+H:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.xml
+H:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.pdb
+H:\ \EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe
+H:\ \EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.pdb
+H:\ \EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.xml
+H:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmMain.resources
+H:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAccount.resources
+H:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmDirection.resources
+H:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExam.resources
+H:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExaminee.resources
+H:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmLogin.resources
+H:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmQuestionaire.resources
+H:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmRanking.resources
+H:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmResults.resources
+H:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmUser.resources
+H:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmValiditation.resources
+H:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.Resources.resources
+H:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.exe
+F:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.xml
+F:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.pdb
+C:\Users\103\Desktop\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe.config
+C:\Users\103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintExaminee.resources
+H:\ \EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe.config
+H:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintExaminee.resources
+C:\Users\103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.vbproj.GenerateResource.Cache
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe.config
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.exe
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.xml
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.pdb
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.pdb
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.xml
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmMain.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAccount.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmDirection.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExam.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExaminee.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintExaminee.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmQuestionaire.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmResults.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmUser.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.Resources.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ \EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe.config
+F:\ \EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe
+F:\ \EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.pdb
+F:\ \EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.xml
+F:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmMain.resources
+F:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.Form2.resources
+F:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAccount.resources
+F:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmDirection.resources
+F:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExam.resources
+F:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExaminee.resources
+F:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmLogin.resources
+F:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintExaminee.resources
+F:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmQuestionaire.resources
+F:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmResults.resources
+F:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmUser.resources
+F:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmValiditation.resources
+F:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.Resources.resources
+F:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ \EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ \copy\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe.config
+F:\ \copy\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.exe
+F:\ \copy\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.xml
+F:\ \copy\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.pdb
+C:\Users\lab103\Desktop\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe.config
+C:\Users\lab103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.exe
+C:\Users\lab103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.xml
+C:\Users\lab103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.pdb
+C:\Users\lab103\Desktop\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe
+C:\Users\lab103\Desktop\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.pdb
+C:\Users\lab103\Desktop\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.xml
+C:\Users\lab103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.vbprojResolveAssemblyReference.cache
+C:\Users\lab103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmMain.resources
+C:\Users\lab103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.Form2.resources
+C:\Users\lab103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAccount.resources
+C:\Users\lab103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmDirection.resources
+C:\Users\lab103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExam.resources
+C:\Users\lab103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExaminee.resources
+C:\Users\lab103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExamManage.resources
+C:\Users\lab103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmLogin.resources
+C:\Users\lab103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintExaminee.resources
+C:\Users\lab103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmQuestionaire.resources
+C:\Users\lab103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmResults.resources
+C:\Users\lab103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmValiditation.resources
+C:\Users\lab103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.Resources.resources
+C:\Users\lab103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.vbproj.GenerateResource.Cache
+C:\Users\103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExamManage.resources
+F:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe.config
+F:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.exe
+F:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.xml
+F:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.pdb
+F:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe
+F:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.pdb
+F:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.xml
+F:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.vbprojResolveAssemblyReference.cache
+F:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmMain.resources
+F:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.Form2.resources
+F:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAccount.resources
+F:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmDirection.resources
+F:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExam.resources
+F:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExaminee.resources
+F:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExamManage.resources
+F:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmLogin.resources
+F:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintExaminee.resources
+F:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmQuestionaire.resources
+F:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmResults.resources
+F:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmValiditation.resources
+F:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.Resources.resources
+F:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.vbproj.GenerateResource.Cache
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe.config
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.exe
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.xml
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.pdb
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.pdb
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.xml
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmMain.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.Form2.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAccount.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmDirection.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExam.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExaminee.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExamManage.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmLogin.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintExaminee.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmQuestionaire.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmResults.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmValiditation.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.Resources.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmUser.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExamManage.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintResults.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAbout.resources
+C:\Users\103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAbout.resources
+C:\Users\103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintResults.resources
+C:\Users\103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmUser.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmViewAnswers.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmDeleting.resources
+G:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe.config
+G:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.exe
+G:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.xml
+G:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.pdb
+G:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe
+G:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.pdb
+G:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.xml
+G:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.vbprojResolveAssemblyReference.cache
+G:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmMain.resources
+G:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAbout.resources
+G:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAccount.resources
+G:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmDeleting.resources
+G:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmDirection.resources
+G:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExam.resources
+G:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExaminee.resources
+G:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExamManage.resources
+G:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintExaminee.resources
+G:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintResults.resources
+G:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmQuestionaire.resources
+G:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmResults.resources
+G:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmUser.resources
+G:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmViewAnswers.resources
+G:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.Resources.resources
+G:\ \copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.vbproj.GenerateResource.Cache
+C:\Users\103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmDeleting.resources
+C:\Users\103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmViewAnswers.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder (3)\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe.config
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder (3)\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.exe
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder (3)\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.xml
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder (3)\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.pdb
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder (3)\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder (3)\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.pdb
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder (3)\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.xml
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder (3)\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder (3)\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmMain.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder (3)\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAbout.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder (3)\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAccount.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder (3)\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmDeleting.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder (3)\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmDirection.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder (3)\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExam.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder (3)\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExaminee.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder (3)\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExamManage.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder (3)\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintExaminee.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder (3)\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintResults.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder (3)\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmQuestionaire.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder (3)\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmResults.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder (3)\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmUser.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder (3)\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmViewAnswers.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder (3)\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.Resources.resources
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder (3)\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ITAssociates.ITAssociates-PC\Desktop\New folder (3)\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\103\Desktop\localhost   localhost   esc   tbl_user   phpMyAdmin 3.2.4_files\New folder\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe.config
+C:\Users\103\Desktop\localhost   localhost   esc   tbl_user   phpMyAdmin 3.2.4_files\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.exe
+C:\Users\103\Desktop\localhost   localhost   esc   tbl_user   phpMyAdmin 3.2.4_files\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.xml
+C:\Users\103\Desktop\localhost   localhost   esc   tbl_user   phpMyAdmin 3.2.4_files\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.pdb
+C:\Users\103\Desktop\localhost   localhost   esc   tbl_user   phpMyAdmin 3.2.4_files\New folder\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe
+C:\Users\103\Desktop\localhost   localhost   esc   tbl_user   phpMyAdmin 3.2.4_files\New folder\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.pdb
+C:\Users\103\Desktop\localhost   localhost   esc   tbl_user   phpMyAdmin 3.2.4_files\New folder\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.xml
+C:\Users\103\Desktop\localhost   localhost   esc   tbl_user   phpMyAdmin 3.2.4_files\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.vbprojResolveAssemblyReference.cache
+C:\Users\103\Desktop\localhost   localhost   esc   tbl_user   phpMyAdmin 3.2.4_files\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmMain.resources
+C:\Users\103\Desktop\localhost   localhost   esc   tbl_user   phpMyAdmin 3.2.4_files\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAbout.resources
+C:\Users\103\Desktop\localhost   localhost   esc   tbl_user   phpMyAdmin 3.2.4_files\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAccount.resources
+C:\Users\103\Desktop\localhost   localhost   esc   tbl_user   phpMyAdmin 3.2.4_files\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmDeleting.resources
+C:\Users\103\Desktop\localhost   localhost   esc   tbl_user   phpMyAdmin 3.2.4_files\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmDirection.resources
+C:\Users\103\Desktop\localhost   localhost   esc   tbl_user   phpMyAdmin 3.2.4_files\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExam.resources
+C:\Users\103\Desktop\localhost   localhost   esc   tbl_user   phpMyAdmin 3.2.4_files\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExaminee.resources
+C:\Users\103\Desktop\localhost   localhost   esc   tbl_user   phpMyAdmin 3.2.4_files\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExamManage.resources
+C:\Users\103\Desktop\localhost   localhost   esc   tbl_user   phpMyAdmin 3.2.4_files\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintExaminee.resources
+C:\Users\103\Desktop\localhost   localhost   esc   tbl_user   phpMyAdmin 3.2.4_files\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintResults.resources
+C:\Users\103\Desktop\localhost   localhost   esc   tbl_user   phpMyAdmin 3.2.4_files\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmQuestionaire.resources
+C:\Users\103\Desktop\localhost   localhost   esc   tbl_user   phpMyAdmin 3.2.4_files\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmResults.resources
+C:\Users\103\Desktop\localhost   localhost   esc   tbl_user   phpMyAdmin 3.2.4_files\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmUser.resources
+C:\Users\103\Desktop\localhost   localhost   esc   tbl_user   phpMyAdmin 3.2.4_files\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmViewAnswers.resources
+C:\Users\103\Desktop\localhost   localhost   esc   tbl_user   phpMyAdmin 3.2.4_files\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.Resources.resources
+C:\Users\103\Desktop\localhost   localhost   esc   tbl_user   phpMyAdmin 3.2.4_files\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.vbproj.GenerateResource.Cache
+C:\Users\103\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.vbprojResolveAssemblyReference.cache
+C:\Users\mhars\Desktop\copy\New folder\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe.config
+C:\Users\mhars\Desktop\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.exe
+C:\Users\mhars\Desktop\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.xml
+C:\Users\mhars\Desktop\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.pdb
+C:\Users\mhars\Desktop\copy\New folder\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe
+C:\Users\mhars\Desktop\copy\New folder\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.pdb
+C:\Users\mhars\Desktop\copy\New folder\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.xml
+C:\Users\mhars\Desktop\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.vbprojResolveAssemblyReference.cache
+C:\Users\mhars\Desktop\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmMain.resources
+C:\Users\mhars\Desktop\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAbout.resources
+C:\Users\mhars\Desktop\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAccount.resources
+C:\Users\mhars\Desktop\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmDeleting.resources
+C:\Users\mhars\Desktop\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmDirection.resources
+C:\Users\mhars\Desktop\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExam.resources
+C:\Users\mhars\Desktop\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExaminee.resources
+C:\Users\mhars\Desktop\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExamManage.resources
+C:\Users\mhars\Desktop\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintExaminee.resources
+C:\Users\mhars\Desktop\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintResults.resources
+C:\Users\mhars\Desktop\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmQuestionaire.resources
+C:\Users\mhars\Desktop\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmResults.resources
+C:\Users\mhars\Desktop\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmUser.resources
+C:\Users\mhars\Desktop\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmViewAnswers.resources
+C:\Users\mhars\Desktop\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.Resources.resources
+C:\Users\mhars\Desktop\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.vbproj.GenerateResource.Cache
+G:\ \New folder\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe.config
+G:\ \New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.exe
+G:\ \New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.xml
+G:\ \New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.pdb
+G:\ \New folder\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe
+G:\ \New folder\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.pdb
+G:\ \New folder\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.xml
+G:\ \New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.vbprojResolveAssemblyReference.cache
+G:\ \New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmMain.resources
+G:\ \New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAbout.resources
+G:\ \New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAccount.resources
+G:\ \New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmDeleting.resources
+G:\ \New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmDirection.resources
+G:\ \New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExam.resources
+G:\ \New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExaminee.resources
+G:\ \New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExamManage.resources
+G:\ \New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintExaminee.resources
+G:\ \New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintResults.resources
+G:\ \New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmQuestionaire.resources
+G:\ \New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmResults.resources
+G:\ \New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmUser.resources
+G:\ \New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmViewAnswers.resources
+G:\ \New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.Resources.resources
+G:\ \New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.vbproj.GenerateResource.Cache
+C:\Users\Beth\Desktop\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe.config
+C:\Users\Beth\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.exe
+C:\Users\Beth\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.xml
+C:\Users\Beth\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.pdb
+C:\Users\Beth\Desktop\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe
+C:\Users\Beth\Desktop\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.pdb
+C:\Users\Beth\Desktop\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.xml
+C:\Users\Beth\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Beth\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmMain.resources
+C:\Users\Beth\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAbout.resources
+C:\Users\Beth\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAccount.resources
+C:\Users\Beth\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmDeleting.resources
+C:\Users\Beth\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmDirection.resources
+C:\Users\Beth\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExam.resources
+C:\Users\Beth\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExaminee.resources
+C:\Users\Beth\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExamManage.resources
+C:\Users\Beth\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintExaminee.resources
+C:\Users\Beth\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintResults.resources
+C:\Users\Beth\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmQuestionaire.resources
+C:\Users\Beth\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmResults.resources
+C:\Users\Beth\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmUser.resources
+C:\Users\Beth\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmViewAnswers.resources
+C:\Users\Beth\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.Resources.resources
+C:\Users\Beth\Desktop\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.vbproj.GenerateResource.Cache
+F:\copy\New folder\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe.config
+F:\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.exe
+F:\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.xml
+F:\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.pdb
+F:\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.vbprojResolveAssemblyReference.cache
+F:\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmMain.resources
+F:\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAbout.resources
+F:\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAccount.resources
+F:\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmDeleting.resources
+F:\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmDirection.resources
+F:\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExam.resources
+F:\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExaminee.resources
+F:\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExamManage.resources
+F:\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintExaminee.resources
+F:\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintResults.resources
+F:\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmQuestionaire.resources
+F:\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmResults.resources
+F:\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmUser.resources
+F:\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmViewAnswers.resources
+F:\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.Resources.resources
+F:\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.vbproj.GenerateResource.Cache
+H:\copy\New folder\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe.config
+H:\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.exe
+H:\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.xml
+H:\copy\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.pdb
+C:\Users\Lab-103\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe.config
+C:\Users\Lab-103\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.exe
+C:\Users\Lab-103\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.xml
+C:\Users\Lab-103\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.pdb
+C:\Users\Lab-103\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Lab-103\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmMain.resources
+C:\Users\Lab-103\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAbout.resources
+C:\Users\Lab-103\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAccount.resources
+C:\Users\Lab-103\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmDeleting.resources
+C:\Users\Lab-103\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExaminee.resources
+C:\Users\Lab-103\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExamManage.resources
+C:\Users\Lab-103\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintExaminee.resources
+C:\Users\Lab-103\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintResults.resources
+C:\Users\Lab-103\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmQuestionaire.resources
+C:\Users\Lab-103\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmResults.resources
+C:\Users\Lab-103\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmUser.resources
+C:\Users\Lab-103\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmViewAnswers.resources
+C:\Users\Lab-103\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.Resources.resources
+C:\Users\Lab-103\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.vbproj.GenerateResource.Cache
+C:\Users\Lab-103\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe
+C:\Users\Lab-103\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.pdb
+C:\Users\Lab-103\Desktop\New folder\EntranceExamSystem\EntranceExamSystem\bin\Debug\EntranceExamSystem.xml
+C:\Users\pc03\Desktop\Final na Talaga\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe.config
+C:\Users\pc03\Desktop\Final na Talaga\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.exe
+C:\Users\pc03\Desktop\Final na Talaga\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.xml
+C:\Users\pc03\Desktop\Final na Talaga\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.pdb
+F:\ \Final na Talaga\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe.config
+F:\ \Final na Talaga\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.exe
+F:\ \Final na Talaga\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.xml
+F:\ \Final na Talaga\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.pdb
+D:\System\System Collection\Final na Talaga\Final na Talaga\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe.config
+D:\System\System Collection\Final na Talaga\Final na Talaga\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.exe
+D:\System\System Collection\Final na Talaga\Final na Talaga\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.xml
+D:\System\System Collection\Final na Talaga\Final na Talaga\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.pdb
+D:\System\System Collection\Final na Talaga\Final na Talaga\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.vbprojResolveAssemblyReference.cache
+D:\System\System Collection\Final na Talaga\Final na Talaga\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmMain.resources
+D:\System\System Collection\Final na Talaga\Final na Talaga\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAbout.resources
+D:\System\System Collection\Final na Talaga\Final na Talaga\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAccount.resources
+D:\System\System Collection\Final na Talaga\Final na Talaga\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmDeleting.resources
+D:\System\System Collection\Final na Talaga\Final na Talaga\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExaminee.resources
+D:\System\System Collection\Final na Talaga\Final na Talaga\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExamManage.resources
+D:\System\System Collection\Final na Talaga\Final na Talaga\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintExaminee.resources
+D:\System\System Collection\Final na Talaga\Final na Talaga\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintResults.resources
+D:\System\System Collection\Final na Talaga\Final na Talaga\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmQuestionaire.resources
+D:\System\System Collection\Final na Talaga\Final na Talaga\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmResults.resources
+D:\System\System Collection\Final na Talaga\Final na Talaga\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmUser.resources
+D:\System\System Collection\Final na Talaga\Final na Talaga\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmViewAnswers.resources
+D:\System\System Collection\Final na Talaga\Final na Talaga\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.Resources.resources
+D:\System\System Collection\Final na Talaga\Final na Talaga\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.vbproj.GenerateResource.Cache
+C:\Users\ICT103\Desktop\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe.config
+C:\Users\ICT103\Desktop\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.exe
+C:\Users\ICT103\Desktop\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.xml
+C:\Users\ICT103\Desktop\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.pdb
+C:\Users\ICT103\Desktop\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.vbprojResolveAssemblyReference.cache
+C:\Users\ICT103\Desktop\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmMain.resources
+C:\Users\ICT103\Desktop\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAbout.resources
+C:\Users\ICT103\Desktop\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAccount.resources
+C:\Users\ICT103\Desktop\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmDeleting.resources
+C:\Users\ICT103\Desktop\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExaminee.resources
+C:\Users\ICT103\Desktop\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExamManage.resources
+C:\Users\ICT103\Desktop\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintExaminee.resources
+C:\Users\ICT103\Desktop\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintResults.resources
+C:\Users\ICT103\Desktop\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmQuestionaire.resources
+C:\Users\ICT103\Desktop\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmResults.resources
+C:\Users\ICT103\Desktop\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmUser.resources
+C:\Users\ICT103\Desktop\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmViewAnswers.resources
+C:\Users\ICT103\Desktop\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.Resources.resources
+C:\Users\ICT103\Desktop\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.vbproj.GenerateResource.Cache
+C:\Users\ICT103\Desktop\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe
+C:\Users\ICT103\Desktop\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.pdb
+C:\Users\ICT103\Desktop\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.xml
+F:\ITA\New folder\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe.config
+F:\ITA\New folder\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.exe
+F:\ITA\New folder\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.xml
+F:\ITA\New folder\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.pdb
+F:\ITA\New folder\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe
+F:\ITA\New folder\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.pdb
+F:\ITA\New folder\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.xml
+F:\ITA\New folder\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.vbprojResolveAssemblyReference.cache
+F:\ITA\New folder\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmMain.resources
+F:\ITA\New folder\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAbout.resources
+F:\ITA\New folder\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAccount.resources
+F:\ITA\New folder\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmDeleting.resources
+F:\ITA\New folder\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExaminee.resources
+F:\ITA\New folder\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExamManage.resources
+F:\ITA\New folder\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintExaminee.resources
+F:\ITA\New folder\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintResults.resources
+F:\ITA\New folder\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmQuestionaire.resources
+F:\ITA\New folder\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmResults.resources
+F:\ITA\New folder\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmUser.resources
+F:\ITA\New folder\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmViewAnswers.resources
+F:\ITA\New folder\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.Resources.resources
+F:\ITA\New folder\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.vbproj.GenerateResource.Cache
+\\ICT103-PC06\ney\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe.config
+\\ICT103-PC06\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.exe
+\\ICT103-PC06\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.xml
+\\ICT103-PC06\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.pdb
+\\ICT103-PC06\ney\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe
+\\ICT103-PC06\ney\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.pdb
+\\ICT103-PC06\ney\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.xml
+\\ICT103-PC06\ney\Server\EntranceExamSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+\\ICT103-PC06\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmMain.resources
+\\ICT103-PC06\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAbout.resources
+\\ICT103-PC06\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAccount.resources
+\\ICT103-PC06\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmDeleting.resources
+\\ICT103-PC06\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExaminee.resources
+\\ICT103-PC06\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExamManage.resources
+\\ICT103-PC06\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintExaminee.resources
+\\ICT103-PC06\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintResults.resources
+\\ICT103-PC06\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmQuestionaire.resources
+\\ICT103-PC06\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmResults.resources
+\\ICT103-PC06\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmUser.resources
+\\ICT103-PC06\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmViewAnswers.resources
+\\ICT103-PC06\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.Resources.resources
+\\ICT103-PC06\ney\Server\EntranceExamSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+\\ICT103-PC06\ney\Server\EntranceExamSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ney\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe.config
+D:\ney\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe
+D:\ney\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.pdb
+D:\ney\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.xml
+D:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmMain.resources
+D:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAbout.resources
+D:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAccount.resources
+D:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmDeleting.resources
+D:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExaminee.resources
+D:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExamManage.resources
+D:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintExaminee.resources
+D:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintResults.resources
+D:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmQuestionaire.resources
+D:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmResults.resources
+D:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmUser.resources
+D:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmViewAnswers.resources
+D:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.Resources.resources
+D:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.vbproj.GenerateResource.Cache
+D:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.exe
+D:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.xml
+D:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.pdb
+D:\ney\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe.manifest
+D:\ney\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.application
+D:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.exe.manifest
+D:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.application
+E:\ney\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe.config
+E:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.exe
+E:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.xml
+E:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.pdb
+E:\ney\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe.manifest
+E:\ney\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.application
+E:\ney\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe
+E:\ney\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.pdb
+E:\ney\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.xml
+E:\ney\Server\EntranceExamSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmMain.resources
+E:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAbout.resources
+E:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAccount.resources
+E:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmDeleting.resources
+E:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExaminee.resources
+E:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExamManage.resources
+E:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintExaminee.resources
+E:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintResults.resources
+E:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmQuestionaire.resources
+E:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmResults.resources
+E:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmUser.resources
+E:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmViewAnswers.resources
+E:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.Resources.resources
+E:\ney\Server\EntranceExamSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ney\Server\EntranceExamSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.exe.manifest
+E:\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.application
+E:\Lessons\system\ney\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe.config
+E:\Lessons\system\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.exe
+E:\Lessons\system\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.xml
+E:\Lessons\system\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.pdb
+E:\Lessons\system\ney\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe.manifest
+E:\Lessons\system\ney\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.application
+E:\Lessons\system\ney\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe
+E:\Lessons\system\ney\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.pdb
+E:\Lessons\system\ney\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.xml
+E:\Lessons\system\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.vbprojResolveAssemblyReference.cache
+E:\Lessons\system\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmMain.resources
+E:\Lessons\system\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAbout.resources
+E:\Lessons\system\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmAccount.resources
+E:\Lessons\system\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmDeleting.resources
+E:\Lessons\system\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExaminee.resources
+E:\Lessons\system\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmExamManage.resources
+E:\Lessons\system\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintExaminee.resources
+E:\Lessons\system\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmPrintResults.resources
+E:\Lessons\system\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmQuestionaire.resources
+E:\Lessons\system\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmResults.resources
+E:\Lessons\system\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmUser.resources
+E:\Lessons\system\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.frmViewAnswers.resources
+E:\Lessons\system\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.Resources.resources
+E:\Lessons\system\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.vbproj.GenerateResource.Cache
+E:\Lessons\system\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.exe.manifest
+E:\Lessons\system\ney\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.application
+E:\Lessons\system\Examination System\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe.config
+E:\Lessons\system\Examination System\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.exe
+E:\Lessons\system\Examination System\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.xml
+E:\Lessons\system\Examination System\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.pdb
+E:\Lessons\system\Examination System\ITA\Server\EntranceExamSystem\bin\Debug\EntranceExamSystem.exe.config
+E:\Lessons\system\Examination System\ITA\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.exe
+E:\Lessons\system\Examination System\ITA\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.xml
+E:\Lessons\system\Examination System\ITA\Server\EntranceExamSystem\obj\x86\Debug\EntranceExamSystem.pdb

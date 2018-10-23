@@ -1,0 +1,160 @@
+c:\users\rochelle baccal\documents\visual studio 2010\Projects\Examination System Client\Examination System Client\bin\Debug\Examination System Client.exe
+c:\users\rochelle baccal\documents\visual studio 2010\Projects\Examination System Client\Examination System Client\bin\Debug\Examination System Client.pdb
+c:\users\rochelle baccal\documents\visual studio 2010\Projects\Examination System Client\Examination System Client\bin\Debug\Examination System Client.xml
+c:\users\rochelle baccal\documents\visual studio 2010\Projects\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Form1.resources
+c:\users\rochelle baccal\documents\visual studio 2010\Projects\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Resources.resources
+c:\users\rochelle baccal\documents\visual studio 2010\Projects\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.vbproj.GenerateResource.Cache
+c:\users\rochelle baccal\documents\visual studio 2010\Projects\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.exe
+c:\users\rochelle baccal\documents\visual studio 2010\Projects\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.xml
+c:\users\rochelle baccal\documents\visual studio 2010\Projects\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.pdb
+c:\users\rochelle baccal\documents\visual studio 2010\Projects\Examination System Client\Examination System Client\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\rochelle baccal\documents\visual studio 2010\Projects\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Question.resources
+c:\users\rochelle baccal\documents\visual studio 2010\Projects\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.FrmLogin.resources
+c:\users\rochelle baccal\documents\visual studio 2010\Projects\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Background.resources
+C:\Users\Rochelle Baccal\documents\visual studio 2010\Projects\Examination System Client\Examination System Client\bin\Debug\MySql.Data.dll
+C:\Users\Rochelle Baccal\documents\visual studio 2010\Projects\Examination System Client\Examination System Client\bin\Debug\MySqlBackup.dll
+C:\Users\Rochelle Baccal\documents\visual studio 2010\Projects\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.vbprojResolveAssemblyReference.cache
+C:\Users\Rochelle Baccal\documents\visual studio 2010\Projects\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Confirm.resources
+D:\New folder\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.exe
+D:\New folder\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.xml
+D:\New folder\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.pdb
+D:\New folder\Examination System Client\Examination System Client\bin\Debug\Examination System Client.exe
+D:\New folder\Examination System Client\Examination System Client\bin\Debug\Examination System Client.pdb
+D:\New folder\Examination System Client\Examination System Client\bin\Debug\Examination System Client.xml
+D:\New folder\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Background.resources
+D:\New folder\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Confirm.resources
+D:\New folder\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Form1.resources
+D:\New folder\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.FrmLogin.resources
+D:\New folder\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Resources.resources
+D:\New folder\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Question.resources
+D:\New folder\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.vbproj.GenerateResource.Cache
+F:\New folder\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.exe
+F:\New folder\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.xml
+F:\New folder\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.pdb
+F:\New folder\Examination System Client\Examination System Client\bin\Debug\Examination System Client.exe
+F:\New folder\Examination System Client\Examination System Client\bin\Debug\Examination System Client.pdb
+F:\New folder\Examination System Client\Examination System Client\bin\Debug\Examination System Client.xml
+F:\New folder\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Background.resources
+F:\New folder\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Confirm.resources
+F:\New folder\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Form1.resources
+F:\New folder\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.FrmLogin.resources
+F:\New folder\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Resources.resources
+F:\New folder\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Question.resources
+F:\New folder\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.vbproj.GenerateResource.Cache
+C:\Users\ICT103\Desktop\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.exe
+C:\Users\ICT103\Desktop\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.xml
+C:\Users\ICT103\Desktop\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.pdb
+C:\Users\ICT103\Desktop\Examination System Client\Examination System Client\bin\Debug\Examination System Client.exe
+C:\Users\ICT103\Desktop\Examination System Client\Examination System Client\bin\Debug\Examination System Client.pdb
+C:\Users\ICT103\Desktop\Examination System Client\Examination System Client\bin\Debug\Examination System Client.xml
+C:\Users\ICT103\Desktop\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Background.resources
+C:\Users\ICT103\Desktop\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Confirm.resources
+C:\Users\ICT103\Desktop\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.DBConfig.resources
+C:\Users\ICT103\Desktop\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Form1.resources
+C:\Users\ICT103\Desktop\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.FrmLogin.resources
+C:\Users\ICT103\Desktop\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Resources.resources
+C:\Users\ICT103\Desktop\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Question.resources
+C:\Users\ICT103\Desktop\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.vbproj.GenerateResource.Cache
+C:\Users\ICT103\Desktop\Examination System Client\Examination System Client\bin\Debug\Examination System Client.exe.manifest
+C:\Users\ICT103\Desktop\Examination System Client\Examination System Client\bin\Debug\Examination System Client.application
+C:\Users\ICT103\Desktop\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.exe.manifest
+C:\Users\ICT103\Desktop\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.application
+C:\Users\ICT103\Desktop\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.vbprojResolveAssemblyReference.cache
+D:\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.exe
+D:\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.xml
+D:\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.pdb
+D:\ney\Examination System Client\Examination System Client\bin\Debug\Examination System Client.exe.manifest
+D:\ney\Examination System Client\Examination System Client\bin\Debug\Examination System Client.application
+D:\ney\Examination System Client\Examination System Client\bin\Debug\Examination System Client.exe
+D:\ney\Examination System Client\Examination System Client\bin\Debug\Examination System Client.pdb
+D:\ney\Examination System Client\Examination System Client\bin\Debug\Examination System Client.xml
+D:\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Background.resources
+D:\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Confirm.resources
+D:\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.DBConfig.resources
+D:\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Form1.resources
+D:\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.FrmLogin.resources
+D:\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Resources.resources
+D:\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Question.resources
+D:\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.vbproj.GenerateResource.Cache
+D:\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.exe.manifest
+D:\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.application
+\\ICT103-PC06\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.exe
+\\ICT103-PC06\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.xml
+\\ICT103-PC06\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.pdb
+E:\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.exe
+E:\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.xml
+E:\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.pdb
+E:\ney\Examination System Client\Examination System Client\bin\Debug\Examination System Client.exe.manifest
+E:\ney\Examination System Client\Examination System Client\bin\Debug\Examination System Client.application
+E:\ney\Examination System Client\Examination System Client\bin\Debug\Examination System Client.exe
+E:\ney\Examination System Client\Examination System Client\bin\Debug\Examination System Client.pdb
+E:\ney\Examination System Client\Examination System Client\bin\Debug\Examination System Client.xml
+E:\ney\Examination System Client\Examination System Client\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Background.resources
+E:\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Confirm.resources
+E:\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.DBConfig.resources
+E:\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Form1.resources
+E:\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.FrmLogin.resources
+E:\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Resources.resources
+E:\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Question.resources
+E:\ney\Examination System Client\Examination System Client\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ney\Examination System Client\Examination System Client\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.exe.manifest
+E:\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.application
+E:\Lessons\system\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.exe
+E:\Lessons\system\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.xml
+E:\Lessons\system\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.pdb
+E:\Lessons\system\ney\Examination System Client\Examination System Client\bin\Debug\Examination System Client.exe.manifest
+E:\Lessons\system\ney\Examination System Client\Examination System Client\bin\Debug\Examination System Client.application
+E:\Lessons\system\ney\Examination System Client\Examination System Client\bin\Debug\Examination System Client.exe
+E:\Lessons\system\ney\Examination System Client\Examination System Client\bin\Debug\Examination System Client.pdb
+E:\Lessons\system\ney\Examination System Client\Examination System Client\bin\Debug\Examination System Client.xml
+E:\Lessons\system\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.vbprojResolveAssemblyReference.cache
+E:\Lessons\system\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Background.resources
+E:\Lessons\system\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Confirm.resources
+E:\Lessons\system\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.DBConfig.resources
+E:\Lessons\system\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Form1.resources
+E:\Lessons\system\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.FrmLogin.resources
+E:\Lessons\system\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Resources.resources
+E:\Lessons\system\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Question.resources
+E:\Lessons\system\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.vbproj.GenerateResource.Cache
+E:\Lessons\system\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.exe.manifest
+E:\Lessons\system\ney\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.application
+E:\Lessons\system\Examination System\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.exe
+E:\Lessons\system\Examination System\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.xml
+E:\Lessons\system\Examination System\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.pdb
+E:\Lessons\system\Examination System\Examination System Client\Examination System Client\bin\Debug\Examination System Client.exe.manifest
+E:\Lessons\system\Examination System\Examination System Client\Examination System Client\bin\Debug\Examination System Client.application
+E:\Lessons\system\Examination System\Examination System Client\Examination System Client\bin\Debug\Examination System Client.exe
+E:\Lessons\system\Examination System\Examination System Client\Examination System Client\bin\Debug\Examination System Client.pdb
+E:\Lessons\system\Examination System\Examination System Client\Examination System Client\bin\Debug\Examination System Client.xml
+E:\Lessons\system\Examination System\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.vbprojResolveAssemblyReference.cache
+E:\Lessons\system\Examination System\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Background.resources
+E:\Lessons\system\Examination System\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Confirm.resources
+E:\Lessons\system\Examination System\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.DBConfig.resources
+E:\Lessons\system\Examination System\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Form1.resources
+E:\Lessons\system\Examination System\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.FrmLogin.resources
+E:\Lessons\system\Examination System\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Resources.resources
+E:\Lessons\system\Examination System\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Question.resources
+E:\Lessons\system\Examination System\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.vbproj.GenerateResource.Cache
+E:\Lessons\system\Examination System\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.exe.manifest
+E:\Lessons\system\Examination System\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.application
+E:\Lessons\system\Examination System\ITA\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.exe
+E:\Lessons\system\Examination System\ITA\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.xml
+E:\Lessons\system\Examination System\ITA\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.pdb
+E:\Lessons\system\Examination System\ITA\Examination System Client\Examination System Client\bin\Debug\Examination System Client.exe.manifest
+E:\Lessons\system\Examination System\ITA\Examination System Client\Examination System Client\bin\Debug\Examination System Client.application
+E:\Lessons\system\Examination System\ITA\Examination System Client\Examination System Client\bin\Debug\Examination System Client.exe
+E:\Lessons\system\Examination System\ITA\Examination System Client\Examination System Client\bin\Debug\Examination System Client.pdb
+E:\Lessons\system\Examination System\ITA\Examination System Client\Examination System Client\bin\Debug\Examination System Client.xml
+E:\Lessons\system\Examination System\ITA\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.vbprojResolveAssemblyReference.cache
+E:\Lessons\system\Examination System\ITA\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Background.resources
+E:\Lessons\system\Examination System\ITA\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Confirm.resources
+E:\Lessons\system\Examination System\ITA\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.DBConfig.resources
+E:\Lessons\system\Examination System\ITA\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Form1.resources
+E:\Lessons\system\Examination System\ITA\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.FrmLogin.resources
+E:\Lessons\system\Examination System\ITA\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Resources.resources
+E:\Lessons\system\Examination System\ITA\Examination System Client\Examination System Client\obj\x86\Debug\Examination_System_Client.Question.resources
+E:\Lessons\system\Examination System\ITA\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.vbproj.GenerateResource.Cache
+E:\Lessons\system\Examination System\ITA\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.exe.manifest
+E:\Lessons\system\Examination System\ITA\Examination System Client\Examination System Client\obj\x86\Debug\Examination System Client.application

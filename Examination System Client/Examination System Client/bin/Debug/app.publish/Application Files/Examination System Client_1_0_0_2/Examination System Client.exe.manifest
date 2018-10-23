@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Examination System Client.exe" version="1.0.0.2" publicKeyToken="7567bc2c90792bc2" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Examination System Client" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Examination System Client.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Bunifu_UI_v1.5.3.dll" size="242176">
+      <assemblyIdentity name="Bunifu_UI_v1.5.3" version="1.5.3.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>Gk3/vOKkzmVJXteeq0Kk2jtmCTE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Examination System Client.exe" size="88064">
+      <assemblyIdentity name="Examination System Client" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>hSB3YnXWpDxHZRaRrs2bMS/giSg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MySql.Data.dll" size="424448">
+      <assemblyIdentity name="MySql.Data" version="6.9.9.0" publicKeyToken="C5687FC88969C44D" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>VTMUnibp0cGsS3/5ypdWHoiqmlM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MySqlBackup.dll" size="63488">
+      <assemblyIdentity name="MySqlBackup" version="2.0.9.2" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>kbjGrGAhgXJspDxa9xf0mZzZGeo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=ICT103-PC06\ICT103" issuerKeyHash="71ca63e2be57ae603b86bd7c498ca5acfa65572e" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>a1dRP6GEIG0dewOQWvnoK8l/ack=</DigestValue></Reference></SignedInfo><SignatureValue>n+yugbOBDYisrMTDFEdr2e4TbCHoba3quq7Z8ed5cnOUWnuq0ivKMMHNFncY7F/xaG6H14dWR0dTCzdVsnP0vUSpZqRb76hav2v3Lk4F6m91z2iKqVmBaICUgkDsR9FEuUL/vx2tAQeDRp8cS1Dl2eoB1zFQerlJN2JJHM5mRNI=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>25iyy4L2YHKIQ3uPTGIxb5AOhXr6xZvLXIqYvWt9FVh7xI+12RRERJTd0vSveh8eh2vyTlKw9q3q35p5pSQCsNAzpWmgpgycm+jWyGzdPJWtrm9XlgriIPHYT4iJtvx1MClxg0VbcvuelTQvt3xNUapet6wwztq4x3Y57iBb1pk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="c9697fc92be8f95a90037b1d6d2084a13f51576b" Description="" Url=""><as:assemblyIdentity name="Examination System Client.exe" version="1.0.0.2" publicKeyToken="7567bc2c90792bc2" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=ICT103-PC06\ICT103</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>SyM1293XRwQXc/IqsGXCWkcZrpo=</DigestValue></Reference></SignedInfo><SignatureValue>K3yGJfBZBWJABRs7biwu9WQIkN3NeSdJYhC3zcd40PhanFL7RPQm6UofNSbBOr21nBcDQtvPeEIzg6e5sw1C9zruMjej0gIKvJr7AYwK5lUMjKeIkteYFshCOsvzctifDn5yp9vtxDz4eYHACDbklNq8P8YQqGYr0fNSYhkTR6A=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>25iyy4L2YHKIQ3uPTGIxb5AOhXr6xZvLXIqYvWt9FVh7xI+12RRERJTd0vSveh8eh2vyTlKw9q3q35p5pSQCsNAzpWmgpgycm+jWyGzdPJWtrm9XlgriIPHYT4iJtvx1MClxg0VbcvuelTQvt3xNUapet6wwztq4x3Y57iBb1pk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB4TCCAUqgAwIBAgIQVSEHT9O8zIBIG0UZKvlpuzANBgkqhkiG9w0BAQUFADAvMS0wKwYDVQQDHiQASQBDAFQAMQAwADMALQBQAEMAMAA2AFwASQBDAFQAMQAwADMwHhcNMTcwODI1MDE0MTAzWhcNMTgwODI1MDc0MTAzWjAvMS0wKwYDVQQDHiQASQBDAFQAMQAwADMALQBQAEMAMAA2AFwASQBDAFQAMQAwADMwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANuYssuC9mByiEN7j0xiMW+QDoV6+sWby1yKmL1rfRVYe8SPtdkURESU3dL0r3ofHodr8k5SsPat6t+aeaUkArDQM6VpoKYMnJvo1shs3TyVra5vV5YK4iDx2E+Iibb8dTApcYNFW3L7npU0L7d8TVGqXresMM7auMd2Oe4gW9aZAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAlOQDemWX07sgu9NZurYP8cgQHS6hzBcvzL2holOBJ284VgzSJUVKvMlCSpjXs854+TCGpjKLGELJoVb7OlvNMhWqVsD1ZPgUb6udhaFBzO72/1ePnM6JolIpD8aYNjfIcSa6M6ZeZzLKBcbAWX+sSWsm5Y2A2RtLdEp6VFJAoKk=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
